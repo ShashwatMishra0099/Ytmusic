@@ -80,8 +80,8 @@ su - vcbot
 
 ```bash
 cd /home/vcbot
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/ShashwatMishra0099/Ytmusic.git
+cd Ytmusic
 ```
 
 ---
