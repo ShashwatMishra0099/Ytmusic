@@ -1,0 +1,22 @@
+# ── Secrets — NEVER commit these ─────────────────────────
+.env
+cookies.txt
+
+# ── Generated files ───────────────────────────────────────
+silence.wav
+*.session
+*.session-journal
+
+# ── Downloaded audio cache ────────────────────────────────
+cache/
+
+# ── Python ────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# ── Logs ─────────────────────────────────────────────────
+*.log
